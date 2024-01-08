@@ -4,6 +4,7 @@ For an explanation of why there is a blog here, see [GitHub's wiki makes a prett
 
 | Date | Title |
 |------|-------|
+2024-01-08 | [Java Logging on Google Cloud Platform](https://github.com/stickfigure/blog/wiki/Java-Logging-on-Google-Cloud-Platform)
 2023-10-30 | [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 2023-09-08 | [Intercom is a terrible Mailchimp. So is Mailchimp.](https://github.com/stickfigure/blog/wiki/Intercom-is-a-terrible-Mailchimp.-So-is-Mailchimp.)
 2021-05-19 | [Proof-Of-Stake Wears No Clothes](https://github.com/stickfigure/blog/wiki/Proof-Of-Stake-Wears-No-Clothes)
